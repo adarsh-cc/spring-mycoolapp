@@ -11,7 +11,7 @@ public class Add {
 	}
 	
 	public void result() {
-		System.out.println("Addition of two numbers: "+this.num1 + this.num2);
+		System.out.println("Addition of two numbers: "+(this.num1 + this.num2));
 	}
 	
 
